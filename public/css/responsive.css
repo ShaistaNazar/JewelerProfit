@@ -1,0 +1,193 @@
+
+ @media only screen and (min-width:1200px) and (max-width:1919px) {
+
+ .main-sidebar {
+  width: 280px !important;}
+
+.sidebar { padding-left: .80rem !important;}
+.nav-link { 
+  padding: 14px 18px !important; font-size: 15px !important;}
+
+.nav-link .chevron{ 
+    right: 20px !important;}
+
+
+.main_view_inner { padding: 160px 40px 0px 320px !important; }
+
+.main_logo a {
+  max-width: 170px !important; 
+}
+
+.chaptersFiles strong { 
+  font-size: 15px !important;
+}
+
+
+
+
+
+.isSetting {padding-left: 0px !important; padding-right: 0px !important;}
+
+.side_nav { width: 290px ;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ }
+
+
+@media only screen and (max-width:767px) {
+
+
+  h1, .h1 {
+    font-size: 1.5rem !important;
+  }
+  
+  h2, .h2 {
+    font-size: 1.3rem !important;
+  }
+  
+  h3, .h3 {
+    font-size: 1.2rem !important;
+  }
+  
+  h4, .h4 {
+    font-size: 1rem !important;
+  }
+  
+  h5, .h5 {
+    font-size: 1rem !important;
+  }
+  
+  h6, .h6 {
+    font-size: 0.9rem !important;
+  }
+
+
+
+
+
+     .side_nav { display: none;}
+
+.main_logo a {
+    max-width: 125px !important; 
+}
+
+.customer-buttons {
+  width: 280px !important; 
+}
+
+.profile_avatar { 
+  font-size: 12px !important;
+  min-width: 125px !important;
+}
+
+.main_view_inner[data-v-54d52821] { 
+  padding: 105px 0px 0px 0px !important;
+}
+
+.row .customer-buttons {
+  padding: 25px !important; 
+}
+.my_footer { font-size: 12px !important;}
+
+.myForn .form-control { 
+  padding: 10px 15px !important; 
+  font-size: 14px !important;
+}
+
+
+.vue_tabs .nav-tabs .nav-link { 
+  padding: 10px 7px !important;
+  font-size: 3.1vw !important; 
+}
+
+.vue_tabs .nav-tabs { 
+  padding-left: 0px !important;
+}
+
+.vue_tabs .tab-content {
+  padding: 30px 20px !important; 
+}
+
+.specs_list2 ul li { 
+  padding: 15px 0px !important; }
+
+.item_info_detail { 
+    padding: 0px 0px !important;
+}
+
+.item_info p { 
+  font-size: 12px !important;
+}
+
+.item_info h6 { 
+  font-size: 14px !important;
+}
+
+.tab-content > .tab-pane .item_info h5  { 
+  font-size: 14px !important;
+}
+
+.add_photo ul li {
+  width: 33%;}
+
+
+.sett_stone_detail  .custom-control-label { font-size: 12px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+

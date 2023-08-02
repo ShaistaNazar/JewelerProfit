@@ -1,0 +1,1 @@
+Labor does not include metal, would you like to charge for metal now? (store will know weight)

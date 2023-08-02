@@ -1,0 +1,11 @@
+// Your variable overrides
+$body-bg: #000;
+$primary: #202962;
+$secondary: #333c73;
+$warning: #daaf17;
+$body-color: #111;
+$modelbg: #fff;
+
+
+@import 'node_modules/bootstrap/scss/bootstrap';
+@import 'node_modules/bootstrap-vue/src/index.scss';
